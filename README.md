@@ -3,7 +3,7 @@ Prosjekt for å utvikle læreverk i IKT og etikk/samfunn
 
 Jeg underviser emnet "Etikk & IT profesjonalitet" ved Nord Universitet. Dette gis til studenter som går bachelor eller årskurs i informasjonssystemer. Det tar utgangspunkt i etikk og drøfter aktuelle samfunnsspørsmål knyttet til dagens digitale virkelighet. Jeg benytter i dag "The Gift of Fire" av Sarah Baase.
 
-Jeg har derfor tenkt på å skrive en lærebok basert på skandinaviske, nordiske og europeiske forhold og som har med disse temaene og som er oppdatert. Da jeg var på FSCONS-X (som for øvrig handler mye om etikk) luftet jeg ideen og fikk positiv respons på det. 
+Jeg har derfor tenkt på å skrive en lærebok basert på skandinaviske, nordiske og europeiske forhold og som har med disse temaene og som er oppdatert. Da jeg var på konferansen FSCONS-X (som egentlig handler mye om etikk) luftet jeg ideen og fikk positiv respons på det. 
 
 Kan dette gjøres som et "open source" prosjekt hvor flere bidrar? Kan boka ha en norsk og en svensk versjon? 
 
