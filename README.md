@@ -28,3 +28,9 @@ Andre tema:
  * IT-profesjonalitet
  * Kunstig intelligens
 
+
+Svenska
+=======
+IT-etik
+Projekt för att utveckla ett läromedel i IKT och etik/samhälle
+
