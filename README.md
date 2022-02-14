@@ -1,7 +1,7 @@
 ## IT-Etikk
 Prosjekt for å utvikle læreverk i IKT og etikk/samfunn
 
-Jeg underviste for noen år siden emnet "Etikk & IT profesjonalitet" ved Nord Universitet. Dette ble gitt til studenter som går bachelor eller årskurs i informasjonssystemer. Det tar utgangspunkt i etikk og drøfter aktuelle samfunnsspørsmål knyttet til dagens digitale virkelighet. Jeg benytter i dag "The Gift of Fire" av Sara Baase. Mye av dette emnet ble seinere gitt som "Digitalisering av samfunnet" i studiet "Digital økonomi og organisasjon".
+Jeg underviste for noen år siden emnet "Etikk & IT profesjonalitet" ved Høgskolen i Nesna (seinere Nord Universitet). Dette ble gitt til studenter som går bachelor eller årskurs i informasjonssystemer. Det tar utgangspunkt i etikk og drøfter aktuelle samfunnsspørsmål knyttet til dagens digitale virkelighet. Jeg benytter i dag "The Gift of Fire" av Sara Baase. Mye av dette emnet ble seinere gitt som "Digitalisering av samfunnet" i studiet "Digital økonomi og organisasjon".
 
 Det kan nå være aktuelt å inkludere noe av dette i et emne i informatikk under UiT Norges Arktiske universitet. I et bachelorstudium som skal starte i 2023. 
 
